@@ -1,1 +1,1 @@
-# super-hero-hunter-game
+# Superhero-Hunter
