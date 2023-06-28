@@ -1,1 +1,2 @@
 # Superhero-Hunter
+This project is Superhero Hunter App in which we use SuperheroAPI() to fetch the records and details of all the superheroes along with some additional features. This app also allows user to add characters to their favorites list for easy access Users are able to search for the Super heroes by entering the name or searchable term in the search input. This project is built by using HTML, Css , Javascript .
